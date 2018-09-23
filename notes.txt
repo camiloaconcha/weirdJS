@@ -1,0 +1,35 @@
+Conceptual Aside 
+-Syntax Parsers
+-Execution Context 
+-Lexical Environments
+
+Name / Value Pair :
+
+Object:
+-Object is a colection of Value Pairs
+
+The Global Environment and the global object:
+-The global Object in the browsers is the window
+    Global Object = this 
+-Given the avobe 
+
+-Global:not inside a function
+-Execution context : 
+-Outer Environment
+
+The Execution context Creation and 'Hoisting': 
+
+-Hoisting is when a variable is in the dom but it can be undefined
+ if is a function it shares the value of.
+
+- The Execution context is created in two phases 
+    -First is called 'the creation phase'
+        -This phase creates:global object, this and outer environment.
+        -Setup Memory Space for variables and functions "Hoisting".
+        -variables are only saved in memory but not its value , functions are 
+         totally in memory , thats the reason why the function console log prints the value 
+         but not the variable .
+    -Execution phase
+
+Javascript and 'undefined'.
+    
