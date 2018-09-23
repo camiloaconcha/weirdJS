@@ -31,5 +31,15 @@ The Execution context Creation and 'Hoisting':
          but not the variable .
     -Execution phase
 
-Javascript and 'undefined'.
-    
+Javascript and 'undefined':
+In the concept of Hoisting the variables declared are equal to 'undefined' and the undeclared are 'not defined'
+-undefined means that the variable hasnt been set but the value undefined is in javascript a value not a String in quotes 
+
+The Execution context: Code Execution
+It runs your: Global Object, this , Outer Environment.
+-RUNS CODE-
+
+Conceptual Aside : Single Threaded Synchronous Execution
+Sigle Threaded 
+
+
