@@ -40,6 +40,21 @@ It runs your: Global Object, this , Outer Environment.
 -RUNS CODE-
 
 Conceptual Aside : Single Threaded Synchronous Execution
-Sigle Threaded 
+Sigle Threaded :One command at the time an in the order it appears.
+
+Function Invocation and the Execution Stack .
+
+Invocation =  Running a function . 
+Global Execution context(created code and code is executed)
+Execution stack is the whole.
+
+Every function create a new Execution Context in the execution stack.
+
+Class 15:
+Functions , Context , and Variable Environments
+
+Variable Environment: Where the variables live and how to relate each other in memory .
+Scope: Where are we able to see de variable.
+
 
 
