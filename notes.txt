@@ -1,9 +1,9 @@
 Conceptual Aside 
 -Syntax Parsers
 -Execution Context 
--Lexical Environments
+-Lexical Environments:Where the code is wrote
 
-Name / Value Pair :
+Name / Value Pair : 
 
 Object:
 -Object is a colection of Value Pairs
@@ -56,5 +56,10 @@ Functions , Context , and Variable Environments
 Variable Environment: Where the variables live and how to relate each other in memory .
 Scope: Where are we able to see de variable.
 
+The Scope Chain : Where can i access a variable  
 
+Scope, ES6 and let: let is defined and executed in runtime
 
+What about asynchronous callbacks?
+-asynchronous : more than one at time
+-event queue
