@@ -1,3 +1,4 @@
+
 Conceptual Aside 
 -Syntax Parsers
 -Execution Context 
@@ -63,3 +64,16 @@ Scope, ES6 and let: let is defined and executed in runtime
 What about asynchronous callbacks?
 -asynchronous : more than one at time
 -event queue
+
+
+Operators:
+A special function that is syntactically(+,-,*,/,<,>), infix notation.
+
+Operator precedence and associativity
+
+Operator precedence : Whis operator function gets called first.
+Higher Precedence wins
+
+Associativity :What order operator functions get called in Left -To -Right or 
+                right to left , when function have the same precedence
+
