@@ -63,3 +63,21 @@ Scope, ES6 and let: let is defined and executed in runtime
 What about asynchronous callbacks?
 -asynchronous : more than one at time
 -event queue
+
+Types and Javascript
+
+-Dynamic Typing :
+Javascript engine figures it out th type of data. this is called dynanic Typing
+var isNew = true;//Boolean
+isNew = 'yup';//String
+isNew = 1; //Number
+
+Primitive Types :
+Is a type of data that represents a single value(that is , not an object)
+
+undefined : Represents lack of existence .
+boolean : true or false
+number : floating point number
+string :' ' or " "
+null:represents lack of existence
+symbol: 
