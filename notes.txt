@@ -1,3 +1,4 @@
+
 Conceptual Aside 
 -Syntax Parsers
 -Execution Context 
@@ -64,6 +65,7 @@ What about asynchronous callbacks?
 -asynchronous : more than one at time
 -event queue
 
+
 Types and Javascript
 
 -Dynamic Typing :
@@ -81,3 +83,16 @@ number : floating point number
 string :' ' or " "
 null:represents lack of existence
 symbol: 
+
+
+Operators:
+A special function that is syntactically(+,-,*,/,<,>), infix notation.
+
+Operator precedence and associativity
+
+Operator precedence : Whis operator function gets called first.
+Higher Precedence wins
+
+Associativity :What order operator functions get called in Left -To -Right or 
+                right to left , when function have the same precedence
+
