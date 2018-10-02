@@ -96,3 +96,11 @@ Higher Precedence wins
 Associativity :What order operator functions get called in Left -To -Right or 
                 right to left , when function have the same precedence
 
+Conceptual Aside:Coercion
+-Converting a value from one type to another.
+
+Comparision Operators:
+-Equality:
+-Strict Equality
+
+
