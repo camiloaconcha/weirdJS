@@ -103,4 +103,10 @@ Comparision Operators:
 -Equality:
 -Strict Equality
 
+Existence and Booleans:
+Default Values
+Framework Aside:Default Values
+
+
+
 
