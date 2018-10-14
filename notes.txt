@@ -108,5 +108,12 @@ Default Values
 Framework Aside:Default Values
 
 
+Objects and the dot
+
+The objects has Primitive "property" , Object "property" and Function "method"
+
+
+
+
 
 
